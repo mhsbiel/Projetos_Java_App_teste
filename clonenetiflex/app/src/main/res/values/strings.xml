@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clone-netiflex</string>
+    <string name="menu_volume">Menu  Volume</string>
+    <string name="menu_mensagem">Menu Mensagem</string>
+    <string name="menu_avaliação">Menu Avaliação</string>
+    <string name="menu_conteudo">Menu de conteudo</string>
+</resources>

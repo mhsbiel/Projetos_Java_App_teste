@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_img_principal" />
+    <dimen name="distanci_do_texto">170dp</dimen>
+</resources>
